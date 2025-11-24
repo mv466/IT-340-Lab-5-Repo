@@ -1006,3 +1006,357 @@ tmpfs           387M  112K  387M   1% /run/user/1000
 /dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
 -------------------------------------------------------
 
+==== System Monitor - 2025-11-19 13:54:01 ====
+
+Uptime:
+ 13:54:01 up 1 min,  1 user,  load average: 1.43, 0.82, 0.31
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.1Gi       2.2Gi        35Mi       791Mi       2.7Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  1.9M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  116K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 13:55:01 ====
+
+Uptime:
+ 13:55:01 up 2 min,  1 user,  load average: 1.65, 0.94, 0.38
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.3Gi        54Mi       1.3Gi       2.4Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 13:56:01 ====
+
+Uptime:
+ 13:56:01 up 3 min,  1 user,  load average: 1.35, 1.00, 0.44
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        54Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 13:57:01 ====
+
+Uptime:
+ 13:57:01 up 4 min,  1 user,  load average: 1.01, 1.00, 0.48
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.5Gi       1.2Gi        54Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 13:58:01 ====
+
+Uptime:
+ 13:58:01 up 5 min,  1 user,  load average: 0.44, 0.84, 0.45
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        54Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 13:59:01 ====
+
+Uptime:
+ 13:59:01 up 6 min,  1 user,  load average: 0.16, 0.68, 0.42
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        54Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:00:01 ====
+
+Uptime:
+ 14:00:01 up 7 min,  1 user,  load average: 0.06, 0.56, 0.39
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:01:01 ====
+
+Uptime:
+ 14:01:01 up 8 min,  1 user,  load average: 0.02, 0.45, 0.36
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:02:01 ====
+
+Uptime:
+ 14:02:01 up 9 min,  1 user,  load average: 0.00, 0.37, 0.34
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.4Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:03:01 ====
+
+Uptime:
+ 14:03:01 up 10 min,  1 user,  load average: 0.00, 0.30, 0.32
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.4Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:04:01 ====
+
+Uptime:
+ 14:04:01 up 11 min,  1 user,  load average: 0.00, 0.24, 0.30
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.4Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:05:01 ====
+
+Uptime:
+ 14:05:01 up 12 min,  1 user,  load average: 0.00, 0.20, 0.27
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:06:01 ====
+
+Uptime:
+ 14:06:01 up 13 min,  1 user,  load average: 0.00, 0.16, 0.25
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.5Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:07:01 ====
+
+Uptime:
+ 14:07:01 up 14 min,  1 user,  load average: 0.00, 0.13, 0.24
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-19 14:08:01 ====
+
+Uptime:
+ 14:08:01 up 15 min,  1 user,  load average: 0.00, 0.10, 0.22
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.2Gi        41Mi       1.3Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  124K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ==== System Monitor - 2025-11-23 09:29:01 ====
+
+Uptime:
+ 09:29:01 up 0 min,  0 user,  load average: 1.99, 0.43, 0.14
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       546Mi       3.2Gi       1.5Mi       279Mi       3.2Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  1.6M  386M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+-------------------------------------------------------
+
+==== System Monitor - 2025-11-24 09:15:37 ====
+
+Uptime:
+ 09:15:37 up 1 min,  1 user,  load average: 1.98, 0.74, 0.26
+
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.1Gi       2.2Gi        30Mi       763Mi       2.7Gi
+Swap:          3.7Gi          0B       3.7Gi
+
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G   11G  8.4G  55% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  112K  387M   1% /run/user/1000
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-onboarding-mv466/Ubuntu 24.04.3 LTS amd64
+/dev/sr0         96M   96M     0 100% /media/dev-onboarding-mv466/CDROM
+-------------------------------------------------------
+
